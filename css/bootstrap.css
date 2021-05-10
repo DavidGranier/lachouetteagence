@@ -1658,7 +1658,8 @@ mark {
 }
 
 .text-center {
-    text-align: center
+    text-align: center;
+    font-size: 1em;
 }
 
 .text-justify {
@@ -2066,7 +2067,8 @@ pre code {
     position: relative;
     min-height: 1px;
     padding-right: 15px;
-    padding-left: 15px
+    padding-left: 15px;
+    font-size: 1.2em;
 }
 
 .col-xs-1,
